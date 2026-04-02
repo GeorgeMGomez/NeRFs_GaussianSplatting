@@ -1,0 +1,16 @@
+videos/*
+!videos/README*
+
+Implementation/Gaussian_Split/*
+!Implementation/Gaussian_Split/banana*
+Implementation/Gaussian_Split/banana/*
+!Implementation/Gaussian_Split/banana/images*
+
+Segmentation/*
+!Segmentation/README*
+
+*.exe
+*.o
+*.bin
+build/
+dist/
