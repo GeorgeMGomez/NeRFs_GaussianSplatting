@@ -2,9 +2,11 @@ videos/*
 !videos/README*
 
 Implementation/Gaussian_Split/*
+!Implementation/Gaussian_Split/README*
 !Implementation/Gaussian_Split/banana*
 Implementation/Gaussian_Split/banana/*
 !Implementation/Gaussian_Split/banana/images*
+
 
 Segmentation/*
 !Segmentation/README*
