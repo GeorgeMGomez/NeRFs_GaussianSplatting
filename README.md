@@ -8,6 +8,7 @@
 
 ## Hardware
 Desktop: **AMD Ryzen 7 5800X**(CPU) | **AMD Radeon RX6600**
+
 Laptop: **AMD Ryzen 5 4500U**(CPU) | **AMD Integrated Graphics**
 Δεν μπορούμε να χρησιμοποιήσουμε ούτε CUDA, ούτε ROCm.  
 
@@ -23,5 +24,5 @@ SAGA:[https://github.com/Jumpat/SegAnyGAussians] <- :x: Χρειάζεται CUD
 Gaussian-Grouping:[https://github.com/lkeab/gaussian-grouping] <- :x: Χρειάζεται CUDA
 **Εναλλακτικός τρόπος που μπορεί να λειτουργήσει**: SAM[https://ai.meta.com/research/sam3d/] + SuperSplat[https://superspl.at/]
 
-### Εργαλείο για το brush
+## Εργαλείο για το brush
 COLMAP:[https://github.com/colmap/colmap]
