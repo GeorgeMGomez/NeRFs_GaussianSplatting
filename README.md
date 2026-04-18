@@ -10,18 +10,25 @@
 Desktop: **AMD Ryzen 7 5800X**(CPU) | **AMD Radeon RX6600**
 
 Laptop: **AMD Ryzen 5 4500U**(CPU) | **AMD Integrated Graphics**
+
 Δεν μπορούμε να χρησιμοποιήσουμε ούτε CUDA, ούτε ROCm.  
 
 ## "θα διερευνηθούν εναλλακτικές ευφυείς μέθοδοι για την ανακατασκευή"
 Official Gaussian Splatting:[https://github.com/graphdeco-inria/gaussian-splatting/blob/main/README.md] <- :x: Χρειάζεται CUDA
+
 OpenSplat:[https://github.com/pierotofy/opensplat#build] <- :x: Χρειάζεται ROCm
+
 NerfStudio:[https://github.com/nerfstudio-project/nerfstudio/] <- :x: Χρειάζεται CUDA
+
 TachiNerf:[https://github.com/taichi-dev/taichi-nerfs] <- :x: Πολύ τεράστια ταλαιπωρία αν δεν έχεις NVIDIA GPU
+
 Brush:[https://github.com/ArthurBrussee/brush] <- Λειτουργεί χωρίς CUDA καί ROCm. Υλοποιεί WEBGPU.
 
 ## "και τμηματοποίηση τρισδιάστατων μοντέλων"
 SAGA:[https://github.com/Jumpat/SegAnyGAussians] <- :x: Χρειάζεται CUDA
+
 Gaussian-Grouping:[https://github.com/lkeab/gaussian-grouping] <- :x: Χρειάζεται CUDA
+
 **Εναλλακτικός τρόπος που μπορεί να λειτουργήσει**: SAM[https://ai.meta.com/research/sam3d/] + SuperSplat[https://superspl.at/]
 
 ## Εργαλείο για το brush
