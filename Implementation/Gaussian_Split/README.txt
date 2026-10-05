@@ -1,1 +1,0 @@
-Add this folder structure -> objectName[folder] -> images[folder] -> images of the object [jpg]
