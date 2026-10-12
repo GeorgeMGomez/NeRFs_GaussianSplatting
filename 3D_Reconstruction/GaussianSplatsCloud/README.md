@@ -1,6 +1,7 @@
 # Reconstructing 3D Models with Gaussian Splatting by using Cloud Services
 Before starting make sure that the Runtime Version in the "Change runtime type" section is 2026.07
 
+The .ipynb file contains all the commands shown below
 All commands should be run in the cloud's code cell
 
 ## 1. Google Colab or Kaggle

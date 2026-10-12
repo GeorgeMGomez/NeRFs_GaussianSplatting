@@ -1,4 +1,5 @@
 # Reconstructing 3D Models with NeRFs by using Cloud services
+The .ipynb file contains all the commands shown below
 All commands should be run in the cloud's code cell
 
 ## 1. Kaggle
