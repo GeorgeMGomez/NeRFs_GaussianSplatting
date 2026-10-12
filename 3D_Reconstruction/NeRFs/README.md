@@ -1,4 +1,5 @@
-# Reconstructing 3D Models with NeRFs
+# Reconstructing 3D Models with NeRFs by using Cloud services
+All commands should be run in the cloud's code cell
 
 ## 1. Kaggle
 Click the link to start using the cloud service Kaggle: https://www.kaggle.com/
