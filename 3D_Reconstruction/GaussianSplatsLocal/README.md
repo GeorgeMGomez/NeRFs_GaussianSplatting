@@ -18,4 +18,16 @@ colmap gui
 ```
 To open the app
 
-## 4. 
+## 4. Colmap App
+![image_alt](https://github.com/GeorgeMGomez/NeRFs_GaussianSplatting/blob/main/3D_Reconstruction/GaussianSplatsLocal/imagesForREADME/brush1.png?raw=true)
+
+![image_alt](https://github.com/GeorgeMGomez/NeRFs_GaussianSplatting/blob/main/3D_Reconstruction/GaussianSplatsLocal/imagesForREADME/brush2.png?raw=true)
+
+![image_alt](https://github.com/GeorgeMGomez/NeRFs_GaussianSplatting/blob/main/3D_Reconstruction/GaussianSplatsLocal/imagesForREADME/brush3.png?raw=true)
+
+## 5. Install Brush App
+![image_alt](https://github.com/GeorgeMGomez/NeRFs_GaussianSplatting/blob/main/3D_Reconstruction/GaussianSplatsLocal/imagesForREADME/brush4.png?raw=true)
+
+![image_alt](https://github.com/GeorgeMGomez/NeRFs_GaussianSplatting/blob/main/3D_Reconstruction/GaussianSplatsLocal/imagesForREADME/brush5.png?raw=true)
+
+![image_alt](https://github.com/GeorgeMGomez/NeRFs_GaussianSplatting/blob/main/3D_Reconstruction/GaussianSplatsLocal/imagesForREADME/brush6.png?raw=true)
